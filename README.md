@@ -183,6 +183,6 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 
 ---
 
-<div align="center">
-  <sub>Built by <strong>VRIL LABS</strong> · Ancient Knowledge · Future Technology</sub>
-</div>
+<p align="center">
+  <sub>Built by <strong>VRIL-LABS</strong> · Ancient Knowledge · Future Technology</sub>
+</p>
