@@ -180,3 +180,9 @@ See [SECURITY.md](SECURITY.md) for vulnerability reporting and security practice
 ## License
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+  <sub>Built by <strong>VRIL LABS</strong> · Ancient Knowledge · Future Technology</sub>
+</div>
